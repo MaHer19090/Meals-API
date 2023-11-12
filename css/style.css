@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.card .maher{
+height: 300px;
+}
+.home{
+    background-image: url(../IMG/chicken-dish-top-view-with-wooden-pattern-background-chicken-meat-collection-chicken-food-hand-drawn-style-illustration-vintage-design-for-restaurant-menu-and-template-vector.jpg);
+    min-height: 100vh;
+    background-size: cover;
+}
+.nav-link{
+    cursor: pointer;
+}
